@@ -21,23 +21,6 @@ This repo provides clean, simple, and efficient Python solutions to **easy-level
 - 💬 Clean and commented code for easy learning.
 - 📁 Organized by problem number and name.
 
----
-
-## 📁 Repository Structure
-
-```
-
-LeetCode-Easy-Problem-Solutions-in-Python/
-│
-├── 1\_Two\_Sum.py
-├── 9\_Palindrome\_Number.py
-├── 13\_Roman\_to\_Integer.py
-├── 14\_Longest\_Common\_Prefix.py
-├── 20\_Valid\_Parentheses.py
-├── ...
-└── README.md
-
-````
 
 ---
 
